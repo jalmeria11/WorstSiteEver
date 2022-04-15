@@ -1,0 +1,38 @@
+p {
+  font-size: 20px;
+  color: green;
+  font-family: papyrus;
+}
+
+.strike {
+  text-decoration: dotted;
+  border: orange solid 0.5px;
+  padding: 8px;
+  margin: 10px;
+}
+
+body {
+  background-image: url("https://media3.giphy.com/media/tTqHSXnVWwRl0NfwsX/giphy.gif?cid=ecf05e47wrrhu57ys1mj698wm1e5qghmzfnmc4v77cvc8w5c&rid=giphy.gif&ct=g");
+  background-size: tile;
+  height: 100vh;
+  padding: 20vh;
+  margin: 4vh;
+}
+
+body {
+  color: grey;
+}
+
+#Text1 {
+  background-color: orange;
+  height: 40px;
+  padding: 2vh;
+  text-align: center;
+}
+
+#Text2 {
+  background-color: orange;
+  width: 120px;
+  height: 325px;
+  text-align: center;
+}

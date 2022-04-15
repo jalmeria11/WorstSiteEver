@@ -1,0 +1,18 @@
+p {
+  font-size: 20px;
+  color: orange; 
+  font-family: papyrus; 
+  border: red dotted 8px;
+}
+
+
+.strike {
+  text-decoration: dotted;
+  border: blue solid 15px;
+  padding: 100px;
+  margin: 20px;
+}
+
+body{
+    background-image: url('https://c.tenor.com/EsD5j2XNgSIAAAAM/you-fell-for-it-rocklee-rock-lee.gif');
+    background-size: tile;
